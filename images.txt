@@ -5,4 +5,4 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/arm64 minio/minio:RELEASE.2025-02-07T23-21-09Z
+--platform=linux/arm64 rabbitmq:4.0.7-alpine
