@@ -1,6 +1,9 @@
-milvusdb/milvus:v2.5.2-20250102-4533fc8f-arm64
+# milvusdb/milvus:v2.5.2-20250102-4533fc8f-arm64
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
+# 
+minio/minio:RELEASE.2025-02-07T23-21-09Z
+--platform=linux/arm64
