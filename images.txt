@@ -5,4 +5,4 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/arm64 semitechnologies/weaviate:1.19.0
+--platform=linux/arm64 langgenius/qdrant:v1.7.3
