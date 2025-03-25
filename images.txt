@@ -5,4 +5,4 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/arm64 docker.elastic.co/kibana/kibana:8.14.3
+--platform=linux/arm64 downloads.unstructured.io/unstructured-io/unstructured-api:latest
