@@ -5,4 +5,4 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/arm64 pgvector/pgvector:pg16
+--platform=linux/arm64 tensorchord/pgvecto-rs:pg16-v0.3.0
