@@ -5,4 +5,4 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/arm64 certbot/certbot:nightly
+--platform=linux/arm64 nginx:1.27.4
