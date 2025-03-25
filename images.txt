@@ -5,4 +5,4 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/arm64 ghcr.io/chroma-core/chroma:0.5.20
+--platform=linux/arm64 oceanbase/oceanbase-ce:4.3.5.1-101000042025031818
