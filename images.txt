@@ -5,4 +5,4 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/arm64 opengauss/opengauss:7.0.0-RC1
+--platform=linux/arm64 myscale/myscaledb:1.6.4
