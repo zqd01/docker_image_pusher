@@ -5,4 +5,4 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/arm64 ubuntu/squid:6.6-24.04_beta
+--platform=linux/arm64 certbot/certbot:nightly
