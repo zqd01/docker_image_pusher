@@ -5,4 +5,4 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/arm64 langgenius/dify-sandbox:0.2.11
+--platform=linux/arm64 langgenius/dify-plugin-daemon:0.0.6-local
