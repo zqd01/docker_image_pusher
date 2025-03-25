@@ -5,4 +5,4 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/arm64 myscale/myscaledb:1.6.4
+--platform=linux/arm64 docker.elastic.co/elasticsearch/elasticsearch:8.14.3
