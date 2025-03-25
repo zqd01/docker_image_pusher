@@ -5,4 +5,4 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/arm64 opensearchproject/opensearch:2.19.1
+--platform=linux/arm64 opensearchproject/opensearch-dashboards:2.19.1
