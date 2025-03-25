@@ -5,4 +5,4 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/arm64 tensorchord/pgvecto-rs:pg16-v0.3.0
+--platform=linux/arm64 ghcr.io/chroma-core/chroma:0.5.20
