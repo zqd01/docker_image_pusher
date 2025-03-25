@@ -5,4 +5,4 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/arm64 oceanbase/oceanbase-ce:4.3.5.1-101000042025031818
+--platform=linux/arm64 container-registry.oracle.com/database/free:23.7.0.0
