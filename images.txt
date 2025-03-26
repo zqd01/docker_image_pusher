@@ -5,4 +5,4 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/arm64 downloads.unstructured.io/unstructured-io/unstructured-api:0.0.80
+--platform=linux/arm64 python:3.7-slim-bullseye
